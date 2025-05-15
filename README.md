@@ -25,12 +25,12 @@ This is a simple virtual machine implementation in C, designed to emulate the LC
 
 ## Getting Started
 
-1.  **Save the code:** Save the provided C code into a file named `lc3.c`.
+1.  **Save the code:** Save the provided C code into a file named `lc3vm.c`.
 
-2.  **Compile the code:** Use your C compiler to compile the `lc3.c` file:
+2.  **Compile the code:** Use your C compiler to compile the `lc3vm.c` file:
 
     ```bash
-    gcc lc3.c -o lc3
+    gcc lc3vm.c -o lc3
     ```
 
 3.  **Run the virtual machine:**
